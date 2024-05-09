@@ -1,0 +1,3 @@
+﻿C:\Users\ROG\d3d12_tutorial\Project0\Shaders\color.hlsl(37,26-36): error X4502: invalid vs_2_0 output semantic 'SV_Target'
+  
+  compilation failed; no code produced
